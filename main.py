@@ -6,3 +6,5 @@ print(var1)
 # Int = 1
 # List = (1, 1., abc, 1)
 # Bool = True/False
+# Divisão inteira = //
+# Resto de divisão = %
